@@ -20,4 +20,4 @@ Power BI Desktop · DAX · Data Modeling · AdventureWorks Dataset
 
 ## 🔗 Related Project
 Built on top of the [AdventureWorks ETL Pipeline]
-(link to your ETL repo)
+https://github.com/Dalin-2000/AdventureWorks_DWH
