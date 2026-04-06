@@ -5,6 +5,7 @@ across territories, product categories and time periods.
 
 <img width="987" height="553" alt="Screenshot 2026-03-30 at 10 09 48 at night" src="https://github.com/user-attachments/assets/25a7cccc-b11a-45e7-ab3b-5b933bcd0568" />
 
+<img width="984" height="561" alt="Screenshot 2026-03-30 at 10 10 07 at night" src="https://github.com/user-attachments/assets/ac9b47b7-ed38-423b-9f20-5cab9a33cb50" />
 
 ## 📈 Key Metrics
 - **Total Profit:** $9.37M  |  **Profit Margin:** 8.53%
