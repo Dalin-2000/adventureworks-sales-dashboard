@@ -3,6 +3,8 @@
 Interactive BI dashboard analyzing AdventureWorks sales performance 
 across territories, product categories and time periods.
 
+![Screenshot 2026-03-30 at 10.09.48 at night](images/Screenshot 2026-03-30 at 10.09.48 at night.png)
+
 ## 📈 Key Metrics
 - **Total Profit:** $9.37M  |  **Profit Margin:** 8.53%
 - **Sales vs Target:** +26.09% above goal
